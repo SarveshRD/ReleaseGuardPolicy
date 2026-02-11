@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "bannedPermissions": [
+    "android.permission.READ_SMS"
+  ],
+  "riskyPermissions": [
+    "android.permission.ACCESS_FINE_LOCATION"
+  ],
+  "bannedSdks": [
+    "com.bad.sdk"
+  ]
+}
